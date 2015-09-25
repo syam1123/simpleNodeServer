@@ -1,0 +1,9 @@
+{
+  "name": "nothing",
+  "version": "0.0.1",
+  "description": "Demo App",
+  "dependencies": {
+	"qs": "*"
+   },
+  "engine": "node 0.6.x"
+}
